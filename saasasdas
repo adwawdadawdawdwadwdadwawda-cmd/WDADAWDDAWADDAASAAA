@@ -15,5 +15,7 @@
   "ModelInstance": "0x360",
   "PartPosition": "0xE4",
   "PartSize": "0x1B0",
+  "Walkspeed" : "0x1D4",
+  "WalkspeedCheck" : "0x3C0"
   "Value": "0xD0"
 }
